@@ -7,7 +7,7 @@
   --bold-font: 700;
   --bolder-font: 900;
   --bg-color: #fcfcfc;
-  --primary-color: #4756df;
+  --primary-color: #0d60cc;
   --secondary-color: #ff7235;
   --primary-shadow: #8b8eaf;
   --secondary-shadow: #a17a69;
@@ -106,12 +106,13 @@ nav ul li {
   align-items: center;
   justify-content: center;
   gap: 2.5rem;
-  max-width: 68.75rem;
+  max-height: 50rem;
+  max-width: 80rem;
   margin: auto;
 }
 
 .hero img {
-  height: 37.5rem;
+  height: 25rem;
   width: 37.5rem;
 }
 
